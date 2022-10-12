@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 ##########################
 # Author: Jason Cariolano
 # Hangman 
 # 
 ##########################
 
+=======
+>>>>>>> parent of 66a8612 (updated)
 import random
 from tkinter import *
 import tkinter as tk
