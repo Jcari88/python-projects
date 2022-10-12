@@ -1,8 +1,8 @@
-###################
+##########################
 # Author: Jason Cariolano
 # Hangman 
 # 
-###################
+##########################
 
 import random
 from tkinter import *
